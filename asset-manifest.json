@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.162c599a.css",
-    "main.js": "/static/js/main.b77fce26.js",
-    "static/js/787.a5cad257.chunk.js": "/static/js/787.a5cad257.chunk.js",
-    "static/media/background.jpg": "/static/media/background.57586a0f2f836c5298c3.jpg",
-    "static/media/to-do-sparkle.png": "/static/media/to-do-sparkle.378db93558316105fd32.png",
-    "index.html": "/index.html",
-    "main.162c599a.css.map": "/static/css/main.162c599a.css.map",
-    "main.b77fce26.js.map": "/static/js/main.b77fce26.js.map",
-    "787.a5cad257.chunk.js.map": "/static/js/787.a5cad257.chunk.js.map"
+    "main.css": "/pomodoro/static/css/main.80f22ffb.css",
+    "main.js": "/pomodoro/static/js/main.0f8524b0.js",
+    "static/js/787.a5cad257.chunk.js": "/pomodoro/static/js/787.a5cad257.chunk.js",
+    "static/media/background.jpg": "/pomodoro/static/media/background.57586a0f2f836c5298c3.jpg",
+    "static/media/to-do-sparkle.png": "/pomodoro/static/media/to-do-sparkle.378db93558316105fd32.png",
+    "index.html": "/pomodoro/index.html",
+    "main.80f22ffb.css.map": "/pomodoro/static/css/main.80f22ffb.css.map",
+    "main.0f8524b0.js.map": "/pomodoro/static/js/main.0f8524b0.js.map",
+    "787.a5cad257.chunk.js.map": "/pomodoro/static/js/787.a5cad257.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.162c599a.css",
-    "static/js/main.b77fce26.js"
+    "static/css/main.80f22ffb.css",
+    "static/js/main.0f8524b0.js"
   ]
 }
