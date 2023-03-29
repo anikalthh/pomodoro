@@ -2,6 +2,13 @@
   --bg-image: url("./images/background.jpg");
 }
 
+@font-face {
+  font-family: 'TAN Pearl';
+  src: url('../public/fonts/TAN-PEARL.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
 .App {
   text-align: center;
 }

@@ -43,8 +43,8 @@ function Timer() {
     <div className='timer'>
       {(minutes !== 0 || seconds !== 0) && <div className="ellipse-1"></div>}
       {(minutes !== 0 || seconds !== 0) && <div className="ellipse-2"></div>}
-      <img className="sparkle-1" src={sparkle}></img>
-      <img className="sparkle-2" src={sparkle}></img>
+      <img alt=' ' className="sparkle-1" src={sparkle}></img>
+      <img alt=' ' className="sparkle-2" src={sparkle}></img>
       {(minutes !== 0 || seconds !== 0) && <h2 style={{ fontSize: '6em', margin: '0.5em', position:'relative', zIndex:'1'}}>{`${minutes.toString().padStart(2, '0')}:${seconds.toString().padStart(2, '0')}`}</h2>}
       {minutes === 0 && seconds === 0 && <h2 style={{ fontSize: '2.5em', margin: '1.5em', position:'relative', zIndex:'1', color:'#445a3c'}}>take a break and <br /> reset whenever you're ready</h2>}
       <form onSubmit={handleSubmit}>
